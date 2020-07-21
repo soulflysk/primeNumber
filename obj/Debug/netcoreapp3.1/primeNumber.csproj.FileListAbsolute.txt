@@ -1,0 +1,13 @@
+C:\data\codes\csharp\cbo_test\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.exe
+C:\data\codes\csharp\cbo_test\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.deps.json
+C:\data\codes\csharp\cbo_test\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.runtimeconfig.json
+C:\data\codes\csharp\cbo_test\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.runtimeconfig.dev.json
+C:\data\codes\csharp\cbo_test\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.dll
+C:\data\codes\csharp\cbo_test\primeNumber\bin\Debug\netcoreapp3.1\primeNumber.pdb
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.csprojAssemblyReference.cache
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.AssemblyInfoInputs.cache
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.AssemblyInfo.cs
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.csproj.CoreCompileInputs.cache
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.dll
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.pdb
+C:\data\codes\csharp\cbo_test\primeNumber\obj\Debug\netcoreapp3.1\primeNumber.genruntimeconfig.cache
